@@ -1,0 +1,16 @@
+body{
+    font-family: cursive;
+}
+.border-input-error{
+    border: 2px solid red;
+}
+.border-input-error:focus{
+    border: 2px solid red;
+    box-shadow: 2px 2px 2px red;
+}
+.border-input-ok{
+    border: 2px solid green;
+}
+.marcar-ok{
+    text-decoration: line-through;
+}
